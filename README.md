@@ -17,13 +17,13 @@ Using this bot to stress test servers without permission from the server owner i
 1. Clone the repository
 ```gitclone
 git clone https://github.com/TerifficDork/Discord-Stresser-Bot
-
+```
 
 2.requirements
 ```pip
 pip install discord
 pip install requests
-
+```
 
 
 
