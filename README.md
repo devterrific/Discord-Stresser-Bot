@@ -29,6 +29,16 @@ pip install discord
 pip install requests
 ```
 
+3. HOW TO USE
+```
+Replace your api key and discord token
+
+and run the file or just put this command in your terminal
+
+python3 main.py
+
+```
+
 
 
 
