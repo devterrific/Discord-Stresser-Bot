@@ -40,5 +40,26 @@ python3 main.py
 ```
 
 
+4. Changes
+```
+You need to change your methods and the prefix if you want 
+
+just find the ? symbol and change it with your prefix
+```
+
+5. Commands
+
+```
+it has 3 build in commands 
+
+?help to show you how to start an attack
+
+?method to show you the methods
+
+?stress to start an attack
+
+example - ?stress ip port time method
+```
+
 
 
